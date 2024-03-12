@@ -14,3 +14,7 @@ header {
 main {
     padding: 20px;
 }
+
+.perfil {
+    display: flex;
+}
