@@ -18,3 +18,22 @@ main {
 .perfil {
     display: flex;
 }
+
+.info-personal h2 {
+    margin-top: 0;
+}
+
+.info-personal ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.info-personal ul li {
+    margin-bottom: 20px;
+}
+
+.info-personal ul li img {
+    width: 150px;
+    float: left;
+    margin-right: 20px;
+}
